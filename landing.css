@@ -1,0 +1,20 @@
+#header {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+  background-color: red;
+  color: white;
+  padding: 1em;
+}
+#nav-bar {
+  position: fixed;
+  width: 100%;
+}
+#header img {
+  max-width: 70px;
+}
+#body {
+  background-color: black;
+  color: white;
+}
